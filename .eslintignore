@@ -1,1 +1,3 @@
 *.js
+src/generated/*.js
+src/generated/*.ts
